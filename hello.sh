@@ -1,3 +1,3 @@
 #!/bin/sh
 echo "hello world"
-echo "I am featurE"
+echo "I am master branch"
